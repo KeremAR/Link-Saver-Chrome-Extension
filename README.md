@@ -1,5 +1,5 @@
 # Link Saver Chrome Extension
- For deploy that extension -> chrome://extensions/  ->Load unpacked ->Upload this project -> Here you go, you are ready for using this extension
+ For deploy that extension -> chrome://extensions/  ->Load unpacked -> Turn on developer mode ->Upload this project -> Here you go, you are ready for using this extension
  
  --------------------------------------------------------------------------------
  
