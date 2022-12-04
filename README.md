@@ -1,4 +1,8 @@
 # Link Saver Chrome Extension
+ For deploy that extension -> chrome://extensions/  ->Load unpacked ->Upload this project -> Here you go, you are ready for using this extension
+ 
+ --------------------------------------------------------------------------------
+ 
  This extension helps you keep tracking your links.
  
  When you click the 'save input' button it saves your input and if it's censored it it removes censor.
